@@ -1,4 +1,4 @@
-# Traversy Media - Modern Landing Page by Kevin Powell
+# Kevin Powell - Modern Landing Page
 
 This is a website for a pretend shoe company that I created by following [this tutorial](https://www.youtube.com/watch?v=X1dz0xRbSJc) by Kevin Powell on the Traversy Media Youtube channel. 
 
