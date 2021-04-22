@@ -6,7 +6,7 @@ This is a website for a pretend shoe company that I created by following [this t
 
 <p float="left">
   <img src="./final-result/final-result-web.png" width="600"/> 
-  <img src="./final-result/final-result-mobile.png" width="200"/> 
+  <img src="./final-result/final-result-mobile-web.png" width="200"/> 
 </p>
 
 ### Links
